@@ -1,6 +1,6 @@
 # voice-assistant
 
-this is a small voice assistant project written in Python. 
+this is a sample voice assistant project written in Python. 
 it's specifically configured to speak or understand Turkish and is still under development.
 
 if you want to know more about it, you can find my Youtube video series about coding this assistant from the link below:
